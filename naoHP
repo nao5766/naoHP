@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>naoのHP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #ffffff;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        section {
+            max-width: 600px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>nao</h1>
+        <p>中3￤webライター目指してます</p>
+    </header>
+
+    <section>
+        <h2>自己紹介</h2>
+        <p>学生のうちに色々な事を経験しておきたくてプログラミングを始めました!<br>
+              他にも投資や動画編集とかもしてます!</p>
+    </section>
+
+    <section>
+        <h2>活動内容</h2>
+        <p>現在は起業予定の方やSNSでの活動を始めようとしている方向けにHPやwebサイトの作成代行をしようと考えています!!<br>基本的にはX(Twitter)にて受注しておりますのでもし良ければご確認ください!!
+<a href="https://twitter.com/naoyade5766">@naoyade5766</a></p>
+    </section>
+
+</body>
+</html>
